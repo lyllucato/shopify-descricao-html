@@ -1,0 +1,34 @@
+//TABELA 2 COLUNAS
+<div class="tabcontent" id="Size">
+<p><strong>Tabela de Medidas em cm:</strong></p>
+<table border="1" style="border-collapse: collapse; width: 100%; height: 104px; border-width: 1px; border-color: #ced4d9;" class="ccpops-table ccpops-table--bottom-border-only">
+<tbody>
+<tr style="height: 16px; background-color: #000000;">
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="color: #ffffff; font-size: 12px;"><strong>Tamanho</strong></span></td>
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="color: #ffffff; font-size: 12px;"><strong>Comp.</strong></span></td>
+</tr>
+<tr style="height: 16px;">
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">PP</span></td>
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">40</span></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 25%; border-width: 1px; border-color: #ced4d9; padding: 0px; height: 24px; text-align: center;"><span style="font-size: 12px;">P</span></td>
+<td style="width: 25%; border-width: 1px; border-color: #ced4d9; padding: 0px; height: 24px; text-align: center;"><span style="font-size: 12px;">42</span></td>
+</tr>
+<tr style="height: 16px;">
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">M</span></td>
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">44</span></td>
+</tr>
+<tr style="height: 16px;">
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">G</span></td>
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">45</span></td>
+</tr>
+<tr style="height: 16px;">
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">GG</span></td>
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">46</span></td>
+</tr>
+</tbody>
+</table>
+<p style="font-size: 10px;" data-mce-style="font-size: 10px;">Dúvidas sobre como medir? <a href="https://sabassi.com.br/pages/tabela-de-medidas" target="_blank">Acesse Nosso Guia de Medidas</a></p>
+<p>*Para saber o seu tamanho, leve em consideração que as medidas da peça foram tiradas com o produto estendido em um local plano.</p>
+</div>
