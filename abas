@@ -1,0 +1,114 @@
+//DESCRIÇÃO COM ABAS
+<div class="tab"><button class="tablinks" id="defaultOpen" onclick="openTab(event, 'Description')">Detalhes</button> <button class="tablinks" onclick="openTab(event, 'Size')">Medidas</button> <button class="tablinks" onclick="openTab(event, 'Shipping')">Entrega</button></div>
+<div id="Description" class="tabcontent">
+<p>Vestido em tecido levinho com comprimento midi, que fica lindo para todas as alturas SIM, ainda mais com essa fenda. Ele tem zíper invisível nas costas para melhor vestir a peça e as amarrações dão um super charme no look.</p>
+<p>Modelo veste tamanho PP.</p>
+<p>|100% viscose |</p>
+<p>*Sabia que 5% do valor de cada venda é revertido e doado para projetos sociais?! Saiba mais no nosso Instagram.</p>
+</div>
+<div id="Size" class="tabcontent">
+<p><strong>Tabela de Medidas em cm:</strong></p>
+<table border="1" style="border-collapse: collapse; width: 100%; height: 128px; border-width: 1px; border-color: #ced4d9;" class="ccpops-table ccpops-table--bottom-border-only">
+<tbody>
+<tr style="height: 16px; background-color: #000000;">
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="color: #ffffff; font-size: 12px;"><strong>Tamanho</strong></span></td>
+<td style="width: 17%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="color: #ffffff; font-size: 12px;"><strong>Comp.</strong></span></td>
+<td style="width: 20%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="color: #ffffff; font-size: 12px;"><strong>Busto</strong></span></td>
+<td style="width: 16.3259%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="color: #ffffff; font-size: 12px;"><strong>Cintura</strong></span></td>
+<td style="width: 16.6741%; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="color: #ffffff; font-size: 12px;"><strong>Quadril</strong></span></td>
+</tr>
+<tr style="height: 16px;">
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">PP</span></td>
+<td style="width: 17%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">111</span></td>
+<td style="width: 20%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">74-84</span></td>
+<td style="width: 16.3259%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">61-66</span></td>
+<td style="width: 16.6741%; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">86-91</span></td>
+</tr>
+<tr style="height: 16px;">
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">P</span></td>
+<td style="width: 17%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">113</span></td>
+<td style="width: 20%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">85-92</span></td>
+<td style="width: 16.3259%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">67-72</span></td>
+<td style="width: 16.6741%; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">92-97</span></td>
+</tr>
+<tr style="height: 16px;">
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">M</span></td>
+<td style="width: 17%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">115</span></td>
+<td style="width: 20%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">92-100</span></td>
+<td style="width: 16.3259%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">73-78</span></td>
+<td style="width: 16.6741%; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">98-103</span></td>
+</tr>
+<tr style="height: 16px;">
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">G</span></td>
+<td style="width: 17%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">116</span></td>
+<td style="width: 20%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">100-108</span></td>
+<td style="width: 16.3259%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">80-85</span></td>
+<td style="width: 16.6741%; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">102-104</span></td>
+</tr>
+<tr style="height: 16px;">
+<td style="width: 25%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">GG</span></td>
+<td style="width: 17%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">117</span></td>
+<td style="width: 20%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">116-122</span></td>
+<td style="width: 16.3259%; height: 16px; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">86-94</span></td>
+<td style="width: 16.6741%; border-width: 1px; border-color: #ced4d9; padding: 0px; text-align: center;"><span style="font-size: 12px;">105-119</span></td>
+</tr>
+</tbody>
+</table>
+<p style="font-size: 10px;" data-mce-style="font-size: 10px;">Dúvidas sobre como medir? <a href="https://sabassi.com.br/pages/tabela-de-medidas" target="_blank">Acesse Nosso Guia de Medidas</a></p>
+</div>
+<div id="Shipping" class="tabcontent">
+<p>O prazo de entrega varia de acordo com a forma de envio escolhida pelo cliente no momento da compra, e começa a contar a partir do primeiro dia útil após a confirmação do pagamento.</p>
+</div>
+<!-- FAVOR NÃO EDITAR O CÓDIGO ABAIXO -->
+<style><!--
+.tab {
+  overflow: hidden;
+  border-bottom: 1px solid #ccc;
+}
+.tab button {
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 12px;
+  font-weight: bold;
+}
+.tab button:hover {
+  background-color: #ddd;
+}
+.tab button.active {
+  background-color: #ccc;
+}
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border-top: none;
+}
+h3 {
+  padding-top: 5px;
+}
+p {
+  font-size: 12px;
+}
+p, h3 {
+  font-family: Arial;
+}
+--></style>
+<script>// <![CDATA[
+function openTab(evt, descName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(descName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+document.getElementById("defaultOpen").click();
+// ]]></script>
